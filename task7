@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <title>My Recipe</title> 
+</head> 
+<body> 
+  <h1>How to Make Ramen</h1> 
+
+  <h2>What You Need</h2> 
+  <ul> 
+    <li>1 ramen packet</li>
+    <li>500ml water</li>
+    <li>1 egg</li>
+    <li>Green onions</li>
+    <li>A pot</li>
+  </ul> 
+
+  <h2>Steps</h2> 
+  <ol> 
+    <li>Boil 500ml of water in a pot.</li>
+    <li><strong>Be careful when handling the hot water.</strong></li>
+    <li>Add the ramen noodles and cook for 3 minutes.</li>
+    <li>Add the seasoning packet and <em>stir well</em>.</li>
+    <li>Add an egg and green onions if you like.</li>
+    <li>Serve the ramen while it is hot.</li>
+  </ol> 
+</body> 
+</html>
