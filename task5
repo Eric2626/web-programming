@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Profile Template</title>
+</head>
+<body>
+  <h1>Eric</h1>
+  <img src="https://picsum.photos/200/200?grayscale" alt="Profile photo" width="200" height="200">
+  <p>I am  <strong>Computer engineering</strong>  <em>student</em>.</p>
+  <h2>My Skills</h2>
+  <ul>
+    <li>Fast learning</li>
+    <li>Development</li>
+    <li>Good managing</li>
+  </ul>
+  <a href="https://gachon.ac.kr" target="_blank" rel="noopener noreferrer">
+    Visit my university
+  </a>
+  <footer>
+    <p>&copy; 2026 Eric</p>
+  </footer>
+</body>
+</html>
