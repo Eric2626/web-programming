@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Favourites</title>
+</head>
+<body>
+  <h1>My Favourites</h1>
+
+  <div class="card">
+    <h2>Favourite Book: Crank: High Voltage</h2>
+    <img src="https://picsum.photos/300/200?random=1" alt="Crank High Voltage" width="300" height="200">
+    <p>Crank: High Voltage is my <strong>favourite</strong>. I really <em>enjoy</em> the action and fast story.</p>
+    <a href="https://en.wikipedia.org/wiki/Crank:_High_Voltage" target="_blank" rel="noopener noreferrer">Learn more</a>
+  </div>
+
+  <div class="card">
+    <h2>Favourite Film: Parasite</h2>
+    <img src="https://picsum.photos/300/200?random=2" alt="Parasite film" width="300" height="200">
+    <p>Parasite is my <strong>favourite film</strong>. The story is very <em>interesting</em> and surprising.</p>
+    <a href="https://en.wikipedia.org/wiki/Parasite_(2019_film)" target="_blank" rel="noopener noreferrer">Learn more</a>
+  </div>
+
+  <div class="card">
+    <h2>Favourite Website: YouTube</h2>
+    <img src="https://picsum.photos/300/200?random=3" alt="YouTube website" width="300" height="200">
+    <p>YouTube is my <strong>favourite website</strong>. I <em>enjoy</em> watching videos and learning new things.</p>
+    <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">Learn more</a>
+  </div>
+
+</body>
+</html>>
