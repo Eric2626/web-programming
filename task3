@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Example</title>
+</head>
+<body>
+  <h1>Found footage from mount everest</h1>
+<img src=https://picsum.photos/seed/picsum/200/300
+     width="400" height="300">
+</body>
+</html>
