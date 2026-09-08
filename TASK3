@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Navigation</title>
+</head>
+<body>
+<nav>
+  <ul>
+    <li><a href="/">Business</a></li>
+    <li><a href="/about">Education</a></li>
+    <li><a href="/science">Science</a></li>
+    <li><a href="/engineering">Engineering</a></li>
+    <li><a href="/professors">Professors</a></li>
+  </ul>
+</nav>
+
+</body>
+</html>
